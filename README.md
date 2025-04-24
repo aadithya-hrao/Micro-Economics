@@ -3,3 +3,4 @@
 - [Perfect Competition](</Perfect Competition.md>)
 - [Monopoly](</Monopoly.md>)
 - [Monopolistic Competition and Oligopoly](</Monopolistic Competition and Oligopoly.md>)
+- [Household Choices](</Houshold Choices.md>)
